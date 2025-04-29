@@ -1,0 +1,3 @@
+neo4j_db/data
+neo4j_db/import
+neo4j_db/logs
